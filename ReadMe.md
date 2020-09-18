@@ -1,0 +1,2 @@
+Este repositorio es una prueba de conepto donde se utiliza la libreria https://github.com/T00rk/bootstrap-material-datetimepicker
+por lo que es solo para demostrar su funcionamiento en caso de que se le necesite usar para rango de fechas
